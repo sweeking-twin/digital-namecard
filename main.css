@@ -134,12 +134,12 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-white {
-	background-color: white;
+.bg-color-grey {
+	background-color: #F2F2F2;
 }
 
-.bg-color-black {
-	background-color: black;
+.bg-color-white {
+	background-color: #F2F2F2;
 }
 
 .text-name {
